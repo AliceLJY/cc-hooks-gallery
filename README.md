@@ -1,3 +1,5 @@
+<p align="center"><a href="README_CN.md">🇨🇳 中文版</a></p>
+
 # cc-hooks-gallery
 
 **Production-grade Claude Code hooks from 500+ real sessions**
