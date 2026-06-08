@@ -1,3 +1,5 @@
+> **[Archived]** This repository is no longer maintained and is kept for history only.
+
 <p align="center"><a href="README_CN.md">🇨🇳 中文版</a></p>
 
 # cc-hooks-gallery
