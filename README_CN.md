@@ -212,9 +212,9 @@ Hook Profile 机制（灵感来自 [ECC](https://github.com/anthropics/ecc)）�
 
 ---
 
-## 贡献
+## 历史贡献规范
 
-发现了好用的 hook 模式？欢迎提 PR。每个 hook 需要：
+本仓库已归档，不再接受新的 PR。以下要求仅作为历史贡献规范保留：
 
 1. 文件顶部包含 Hook Profile 守卫代码
 2. 读取 stdin（即使不用）

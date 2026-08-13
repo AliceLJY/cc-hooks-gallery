@@ -212,9 +212,9 @@ The Hook Profile system (inspired by [ECC](https://github.com/anthropics/ecc)) l
 
 ---
 
-## Contributing
+## Historical Contribution Guidelines
 
-Found a useful hook pattern? PRs welcome. Each hook should:
+This repository is archived and no longer accepts new pull requests. The checklist below is preserved only as a historical contribution guideline:
 
 1. Include the Hook Profile guard at the top
 2. Read stdin (even if unused)
